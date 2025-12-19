@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\MArchivos\bin\Debug\net9.0\Marchivos.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\MArchivos\bin\Debug\net9.0\Marchivos.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\MArchivos\bin\Debug\net9.0\Marchivos.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\MArchivos\bin\Debug\net9.0\Marchivos.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\MArchivos\bin\Debug\net9.0\Marchivos.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\MArchivos\obj\Debug\net9.0\Marchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\MArchivos\obj\Debug\net9.0\Marchivos.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\MArchivos\obj\Debug\net9.0\Marchivos.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\MArchivos\obj\Debug\net9.0\Marchivos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\MArchivos\obj\Debug\net9.0\Marchivos.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\MArchivos\obj\Debug\net9.0\refint\Marchivos.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\MArchivos\obj\Debug\net9.0\Marchivos.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\MArchivos\obj\Debug\net9.0\Marchivos.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\MArchivos\obj\Debug\net9.0\ref\Marchivos.dll

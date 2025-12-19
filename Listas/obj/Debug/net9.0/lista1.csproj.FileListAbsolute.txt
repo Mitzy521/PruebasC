@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\lista1\obj\Debug\net9.0\lista1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\lista1\obj\Debug\net9.0\lista1.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\lista1\obj\Debug\net9.0\lista1.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\lista1\obj\Debug\net9.0\lista1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\lista1\bin\Debug\net9.0\lista1.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\lista1\bin\Debug\net9.0\lista1.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\lista1\bin\Debug\net9.0\lista1.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\lista1\bin\Debug\net9.0\lista1.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\lista1\bin\Debug\net9.0\lista1.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\lista1\obj\Debug\net9.0\lista1.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\lista1\obj\Debug\net9.0\refint\lista1.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\lista1\obj\Debug\net9.0\lista1.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\lista1\obj\Debug\net9.0\lista1.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\lista1\obj\Debug\net9.0\ref\lista1.dll
