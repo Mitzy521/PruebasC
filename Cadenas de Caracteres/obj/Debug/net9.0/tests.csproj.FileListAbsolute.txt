@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\PruebasC\tests\bin\Debug\net9.0\tests.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\PruebasC\tests\bin\Debug\net9.0\tests.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\PruebasC\tests\bin\Debug\net9.0\tests.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\PruebasC\tests\bin\Debug\net9.0\tests.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\PruebasC\tests\bin\Debug\net9.0\tests.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\PruebasC\tests\obj\Debug\net9.0\tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\PruebasC\tests\obj\Debug\net9.0\tests.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\PruebasC\tests\obj\Debug\net9.0\tests.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\PruebasC\tests\obj\Debug\net9.0\tests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\PruebasC\tests\obj\Debug\net9.0\tests.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\PruebasC\tests\obj\Debug\net9.0\refint\tests.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\PruebasC\tests\obj\Debug\net9.0\tests.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\PruebasC\tests\obj\Debug\net9.0\tests.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\PruebasC\tests\obj\Debug\net9.0\ref\tests.dll
