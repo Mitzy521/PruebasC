@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\interface\bin\Debug\net9.0\interfases.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\interface\bin\Debug\net9.0\interfases.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\interface\bin\Debug\net9.0\interfases.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\interface\bin\Debug\net9.0\interfases.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\interface\bin\Debug\net9.0\interfases.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\interface\obj\Debug\net9.0\interfases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\interface\obj\Debug\net9.0\interfases.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\interface\obj\Debug\net9.0\interfases.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\interface\obj\Debug\net9.0\interfases.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\interface\obj\Debug\net9.0\interfases.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\interface\obj\Debug\net9.0\refint\interfases.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\interface\obj\Debug\net9.0\interfases.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\interface\obj\Debug\net9.0\interfases.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\interface\obj\Debug\net9.0\ref\interfases.dll

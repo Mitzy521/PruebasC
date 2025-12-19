@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\funcionesv\bin\Debug\net9.0\funcionesv.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\funcionesv\bin\Debug\net9.0\funcionesv.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\funcionesv\bin\Debug\net9.0\funcionesv.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\funcionesv\bin\Debug\net9.0\funcionesv.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\funcionesv\bin\Debug\net9.0\funcionesv.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\funcionesv\obj\Debug\net9.0\funcionesv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\funcionesv\obj\Debug\net9.0\funcionesv.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\funcionesv\obj\Debug\net9.0\funcionesv.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\funcionesv\obj\Debug\net9.0\funcionesv.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\funcionesv\obj\Debug\net9.0\funcionesv.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\funcionesv\obj\Debug\net9.0\refint\funcionesv.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\funcionesv\obj\Debug\net9.0\funcionesv.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\funcionesv\obj\Debug\net9.0\funcionesv.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\funcionesv\obj\Debug\net9.0\ref\funcionesv.dll
